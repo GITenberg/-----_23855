@@ -1,0 +1,29 @@
+_repo: '-----_23855'
+_version: 0.1.0
+alternative_title: Ming Yi Dai Fang Lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huang, Zongxi
+    alias: 黃宗羲
+    birthdate: 1610
+    deathdate: 1695
+    gutenberg_agent_id: '26088'
+    url: http://www.gutenberg.org/2009/agents/26088
+    wikipedia: http://en.wikipedia.org/wiki/Huang_Zongxi
+description: ''
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23855'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- China -- Early works to 1800'
+- !lcc 'JA'
+title: 明夷待訪錄
+url: http://www.gutenberg.org/ebooks/23855
