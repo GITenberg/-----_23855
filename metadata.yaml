@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26088
     wikipedia: http://en.wikipedia.org/wiki/Huang_Zongxi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23855#-----
 gutenberg_issued: '2007-12-14'
 gutenberg_type: Text
 identifiers:
